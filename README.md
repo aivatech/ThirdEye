@@ -17,16 +17,7 @@
   <a href="https://github.com/DarkSecDevelopers/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.5.3&x2=0" ></a>  
 </p>
 
-# DEVELOPERS & CONTRIBUTORS
 
-1) ANONUD4Y (https://github.com/An0nUD4Y)
-2) USAMA ABDUL SATTAR (https://github.com/usama7628674)
-3) sTiKyt (https://github.com/sTiKyt)
-4) UNDEADSEC (https://github.com/UndeadSec)
-5) Micrafast (https://github.com/Micrafast)
-6) Moltivie (https://github.com/Moltivie)
-7) endbehavi0r (https://github.com/endbehavi0r)
-8) ___________ (WAITING FOR YOU)
 
 # AVAILABLE TUNNELLING OPTIONS**
 0) LOCALHOST 
@@ -38,8 +29,7 @@
 6) OPENPORT (https://openport.io/)
 7) PAGEKITE (https://pagekite.net/)
 
-# SCREENSHOT (Android-Userland)
-![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
+
 
 
 ## CREDIT:-
@@ -88,7 +78,7 @@
 - Major issues fixed.
 
 **4) ANDROID SUPPORT**
-- We care about Android Users, So now we have came with two ways to run HiddenEye in Android Devices.
+- We care about Android Users, So now we have came with two ways to run ThirdEye in Android Devices.
 
 **(A) UserLand App**
 - You Have to Download UserLand App. [Click Here](https://play.google.com/store/apps/details?id=tech.ula) To Download it.
@@ -96,10 +86,10 @@
 
 **(B) Termux App**
   - You Have to Download Termux App. [Click Here](https://play.google.com/store/apps/details?id=com.termux) To Download it.
-  - For Further instruction [Check Instructions](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/instructions.md)
+  - For Further instruction [Check Instructions](https://github.com/aivatech/ThirdEye/blob/master/instructions.md)
   - Termux Users Clone With This Command , Unless Errors may occur during Running.
 ```
-git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git
+git clone -b Termux-Support-Branch https://github.com/aivatech/ThirdEye.git
 
 ```
 **5) NEW LOOK PROVIDED**
@@ -130,13 +120,13 @@ git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEy
 **11) TOOLS ADDED**
 
 **A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Taken From https://github.com/thewhiteh4t/seeker)**
-  - NEAR YOU (By @thewhiteh4t )
-  - GDRIVE (By @thewhiteh4t)
-## [Check This](https://youtu.be/InSdtLhZzk4) Demonstration video to know How (Location) Social-Engineering-Tool Works.
+  - NEAR YOU 
+  - GDRIVE 
+## [Check Demonstration video to know How (Location) Social-Engineering-Tool Works.
  
-## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/instructions.md)
+## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)](https://github.com/aivatech/ThirdEye/blob/master/instructions.md)
 
-## TEST/CHECK ALL AVAILABLE PHISHING PAGES - [(TEST/CHECK HERE)](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Test-Phishing/README.md)
+## TEST/CHECK ALL AVAILABLE PHISHING PAGES - [(TEST/CHECK HERE)](https://github.com/aivatech/ThirdEye/blob/master/Test-Phishing/README.md)
 </p>
 
 <h3>Ascii error fix</h3>
@@ -154,7 +144,7 @@ git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEy
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The use of the HiddenEye is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+The use of the ThirdEye is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
 
 
 

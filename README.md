@@ -32,13 +32,7 @@
 
 
 
-## CREDIT:-
-* Anonud4y ( I don't remember if i have done Anything )
-* Usama ( A Most active Developer)
-* sTiKyt ( Guy Who recustomized everything )
-* UNDEADSEC (For their wonderful repo socialfish which motivated us a lot)
-* TheLinuxChoice ( For His Tools Phishing Pages ) 
-* Thewhiteh4t (For Nearyou & Gdrive Location Templates)
+
 
 ### TESTED ON FOLLOWING:-
 * **Kali Linux - Rolling Edition**
